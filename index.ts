@@ -3,4 +3,12 @@ function enviarEmail(nome:string, email: string){
 }
 
 enviarEmail('Arlene', 'arlenej011@gmail.com')
-//inicialização do typescript: yarn tsc --init
+/*
+inicialização do typescript: 
+yarn tsc --init
+yarn tsc => converte os arquivos.ts em .js para que o node consiga entender.
+
+e depois:
+node index.js
+
+*/
