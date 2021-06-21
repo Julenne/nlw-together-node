@@ -1,0 +1,8 @@
+{
+  "name": "nlw-together-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Julenne/nlw-together-node.git",
+  "author": "Arlene Pelenda <arlenej011@gmail.com>",
+  "license": "MIT"
+}
