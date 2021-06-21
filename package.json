@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Julenne/nlw-together-node.git",
   "author": "Arlene Pelenda <arlenej011@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
 }
